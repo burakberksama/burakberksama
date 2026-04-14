@@ -1,6 +1,6 @@
 # Hi, I'm Burak Berk Şama 👋
 
-💻 Backend Developer (Laravel & PHP)  
+💻 Software Developer
 🎓 Computer Engineer | MSc Student at Pamukkale University  
 🚀 Focused on building scalable and maintainable web applications  
 
